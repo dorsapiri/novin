@@ -8,8 +8,8 @@ body {
     height: 100%;
 }
 
-footer {
-    margin: 50px 0;
+.panel-footer {
+    background-color: peachpuff;
 }
 
 ol.carousel-indicators li{
