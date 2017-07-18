@@ -2,15 +2,15 @@
  * Amin Bootstrap - Full Slider
  * Copyright 2017 Amin Bootstrap
  */
-
+/*==========================================
+            HEADER
+============================================*/
 html,
 body {
     height: 100%;
 }
 
-.panel-footer {
-    background-color: peachpuff;
-}
+
 
 ol.carousel-indicators li{
     width: 100px;
@@ -77,4 +77,37 @@ ol.carousel-indicators li.active div{
 
 #item3 {
     background-image:url('http://vira1368.persiangig.com/bootstrap%20template/full-slider/images/hover-pag-3.png');
+}
+
+
+/*==========================================
+            BODY
+============================================*/
+
+li{
+    list-style-type: none;
+}
+
+.company-activity{
+    margin-top: 10%;
+}
+
+.companies{
+    /*height: 20%;*/
+    width: 100%;
+    background-color: #00b3ee;
+}
+.companies > .container >.row{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.companies > .container >.row > div >img{
+    width: 50%;
+}
+
+/*==========================================
+            FOOTER
+============================================*/
+.panel-footer {
+    background-color: peachpuff;
 }
