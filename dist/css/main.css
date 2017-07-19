@@ -5,9 +5,22 @@
 /*==========================================
             HEADER
 ============================================*/
+@font-face {
+    font-family:Yekan;
+    src:url(../fonts/Yekan.ttf);
+    src: url(../fonts/Yekan.woff);
+}
+
+
+
+
 html,
 body {
     height: 100%;
+}
+
+body,p,h1.h2,h3,h4,h5,h6 {
+    font-family: Yekan;
 }
 
 ol.carousel-indicators li {
