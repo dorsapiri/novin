@@ -118,8 +118,10 @@ li {
     margin-top: 15px;
 }
 
-.companies > .container > .row > div > img {
-    width: 50%;
+.companies > .container > .row > div > a > img {
+    width: 160px !important;
+    height: 160px !important;
+
 }
 
 /*==========================================
