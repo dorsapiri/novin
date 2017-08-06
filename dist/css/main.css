@@ -67,15 +67,15 @@ ol.carousel-indicators li.active div {
 }
 
 #image1 {
-    background-image: url('http://vira1368.persiangig.com/bootstrap%20template/full-slider/images/slide-1.jpg');
+    background-image: url('../img/889fbd1aec443cef389ea10c93b498d8_1.jpg');
 }
 
 #image2 {
-    background-image: url('http://vira1368.persiangig.com/bootstrap%20template/full-slider/images/slide-2.jpg');
+    background-image: url('../img/it-specialist.jpg');
 }
 
 #image3 {
-    background-image: url('http://vira1368.persiangig.com/bootstrap%20template/full-slider/images/slide-3.jpg');
+    background-image: url('../img/2159823.jpg');
 }
 
 #item1 {
@@ -119,8 +119,8 @@ li {
 }
 
 .companies > .container > .row > div > a > img {
-    width: 160px !important;
-    height: 160px !important;
+    width: 100px !important;
+    height: 100px !important;
 
 }
 
