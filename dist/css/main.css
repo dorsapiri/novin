@@ -153,6 +153,13 @@ body,p,h1.h2,h3,h4,h5,h6 {
     border-color: #fff;
 }
 
+.navbar-inverse {
+    background-color: #77ADBF !important;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white !important;
+}
 /*==========================================
             BODY
 ============================================*/
@@ -168,7 +175,7 @@ li {
 .companies {
     /*height: 20%;*/
     width: 100%;
-    background-color: #00b3ee;
+    background-color: #77ADBF;
 }
 
 .companies > .container > .row {
@@ -199,5 +206,5 @@ li {
             FOOTER
 ============================================*/
 .panel-footer {
-    background-color: peachpuff;
+    background-color:#FFE7E3;
 }
