@@ -27,6 +27,15 @@ body,p,h1.h2,h3,h4,h5,h6 {
     width:50px;
     height: 35px;
 }
+.navbar-inverse {
+    background-color: #77ADBF !important;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white !important;
+    font-size: 17px !important;
+}
+
 /*===================================
                slider
 /*=====================================*/
@@ -153,13 +162,7 @@ body,p,h1.h2,h3,h4,h5,h6 {
     border-color: #fff;
 }
 
-.navbar-inverse {
-    background-color: #77ADBF !important;
-}
 
-.navbar-inverse .navbar-nav > li > a {
-    color: white !important;
-}
 /*==========================================
             BODY
 ============================================*/
@@ -210,4 +213,9 @@ li {
 ============================================*/
 .panel-footer {
     background-color:#FFE7E3;
+}
+
+
+basefont {
+background-repeat: no-repeat ;
 }
