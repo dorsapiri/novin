@@ -24,8 +24,8 @@ body,p,h1.h2,h3,h4,h5,h6 {
 }
 
 #logo{
-    width:50px;
-    height: 35px;
+    width:60px;
+    height: 45px;
 }
 .navbar-inverse {
     background-color: #77ADBF !important;
@@ -35,13 +35,17 @@ body,p,h1.h2,h3,h4,h5,h6 {
     color: white !important;
     font-size: 17px !important;
 }
+.navbar-brand {
+    padding: 5px 5px !important;
+}
 
 /*===================================
                slider
 /*=====================================*/
 
 .container {
-    margin-top: 20px;
+    /*margin-top: 20px;*/
+    /*margin-bottom: 20px;*/
 }
 
 .carousel{
@@ -207,6 +211,11 @@ li {
 }
 #contact-form{
     padding-top: 70px;
+}
+.FIM-PIC {
+    height: 900px;
+    width: 450px;
+    margin-top: 50px;
 }
 /*==========================================
             FOOTER
